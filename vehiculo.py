@@ -9,3 +9,4 @@ v1 = Vehiculo('Ford', 1600)
 v2 = Vehiculo('Kia', 1400)
 
 print(v1.marca, v1.cilindraje)
+print(v2.marca, v2.cilindraje)
