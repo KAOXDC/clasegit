@@ -7,3 +7,4 @@ class Vehiculo{
 
 v1 = new Vehiculo('Kia', 1600)
 v2 = new Vehiculo('Mustang', 2800)
+
